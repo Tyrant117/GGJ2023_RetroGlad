@@ -1,0 +1,18 @@
+{
+    "name": "RetroGlad.Editor",
+    "rootNamespace": "RetroGlad.Editor",
+    "references": [
+        "GUID:92670d5b01a9f564680e5495f31539ec"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
